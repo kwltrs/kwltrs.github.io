@@ -1,1 +1,1 @@
-Go to (http://kwltrs.github.io/)[http://kwltrs.github.io/].
+Go to [http://kwltrs.github.io/](http://kwltrs.github.io/).
